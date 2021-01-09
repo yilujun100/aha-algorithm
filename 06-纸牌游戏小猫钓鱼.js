@@ -17,8 +17,8 @@
 // 判断哪个玩家获得最终胜利呢，获得最终胜利的标准就是对手手上已经没牌了，如果从队列角度看，那就是头指针和尾指针相等了。
 // 从上面的思路分析可以看出，为了模拟这场游戏，我们需要准备两个队列、一个栈和一个桶，分别表示玩家U1U2手中的牌、桌上的牌以及桌上牌的牌面值。
 
-import Stack from './stack.js'
-import Queue from './queue.js'
+import Stack from './data-structure/stack.js'
+import Queue from './data-structure/queue.js'
 
 function catFishingGame() {
     // Step 1.初始化队列和栈

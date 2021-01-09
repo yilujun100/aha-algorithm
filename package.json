@@ -1,13 +1,21 @@
 {
-    "name": "aha-algorithm",
-    "version": "1.0.0",
-    "description": "learn aha algorithm",
-    "main": "",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "type": "module"
+  "name": "aha-algorithm",
+  "version": "1.0.0",
+  "description": "learn aha algorithm",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yilujun100/aha-algorithm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yilujun100/aha-algorithm/issues"
+  },
+  "homepage": "https://github.com/yilujun100/aha-algorithm#readme"
 }
